@@ -1,0 +1,5 @@
+brand,product,flavor,lot,lab,lab_report_id,test_date,sample_type,serving_size_gummies,label_claim_creatine_monohydrate_g,measured_creatine_monohydrate_g,pct_of_label,label_claim_l_theanine_mg,label_claim_l_tyrosine_mg,gluten_ppm,source_url
+Bear Balanced,Creatine Gummies,Blueberry,260604005,Eurofins Food Integrity & Innovation,5475647-0,2026-08,finished product,3,3.5,3.91,112,50,50,<5,https://creatinegummies.com/pages/lab-results
+Bear Balanced,Creatine Gummies,Blueberry,260615008,Eurofins Food Integrity & Innovation,5486128-0,2026-08,finished product,3,3.5,4.03,115,50,50,<5,https://creatinegummies.com/pages/lab-results
+Bear Balanced,Creatine Gummies,Peach Mango,260604006,Eurofins Food Integrity & Innovation,5483881-0,2026-08,finished product,3,3.5,3.94,113,50,50,<5,https://creatinegummies.com/pages/lab-results
+Bear Balanced,Creatine Gummies,Peach Mango,260615007,Eurofins Food Integrity & Innovation,5483882-0,2026-08,finished product,3,3.5,3.87,111,50,50,<5,https://creatinegummies.com/pages/lab-results
